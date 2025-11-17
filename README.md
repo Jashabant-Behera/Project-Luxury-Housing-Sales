@@ -110,7 +110,7 @@ PROJRCT-LUXURY-HOUSING/
 ### Step 1: Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Jashabant-Behera/Project-Luxury-Housing-Sales.git
 cd PROJRCT-LUXURY-HOUSING
 ```
 
@@ -615,38 +615,6 @@ Avg Price per Sqft = AVERAGE(data_table[Price_per_Sqft])
 
 ---
 
-## Technical Specifications
-
-### Data Volume:
-
-- **Raw Data:** 101,000 rows × 18 columns (13.9 MB)
-- **Cleaned Data:** 100,000 rows × 24 columns (15.2 MB)
-- **Database Size:** ~20 MB with indexes
-- **Power BI File:** ~8 MB (with cached data)
-
-### Performance:
-
-- **Data Cleaning:** ~30 seconds
-- **Database Load:** ~45 seconds (chunked insertion)
-- **Dashboard Refresh:** ~10 seconds (DirectQuery)
-- **Query Response:** <2 seconds (with indexes)
-
-### System Requirements:
-
-**Minimum:**
-- CPU: Intel i5 or equivalent
-- RAM: 8 GB
-- Storage: 500 MB free space
-- OS: Windows 10, macOS 10.14+, Linux
-
-**Recommended:**
-- CPU: Intel i7 or equivalent
-- RAM: 16 GB
-- Storage: 1 GB SSD
-- OS: Windows 11, macOS 12+
-
----
-
 ## Data Dictionary
 
 ### Core Fields:
@@ -884,7 +852,7 @@ This project is for educational and portfolio purposes.
 
 ## Contact & Support
 
-**Project Repository:** [GitHub Link]  
+**Project Repository:** https://github.com/Jashabant-Behera/Project-Luxury-Housing-Sales.git 
 **Documentation:** This README  
 **Issues:** Use GitHub Issues tab  
 **Discussions:** Use GitHub Discussions tab
